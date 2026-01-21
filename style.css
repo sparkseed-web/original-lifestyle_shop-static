@@ -92,8 +92,7 @@ h2 {
 }
 
 .toggle_btn {
-    z-index: 2;
-
+    z-index: 20;
 }
 
 .toggle_btn span {
