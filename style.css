@@ -890,8 +890,7 @@ caption {
     }
 
     .header-nav-inner, .sns-icons {
-        justify-content: center;
-        
+        align-items: center;
     }
 
     .decoration-top {
